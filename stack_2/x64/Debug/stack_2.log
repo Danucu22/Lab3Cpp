@@ -1,0 +1,4 @@
+﻿  stack_2.cpp
+C:\Users\Arasaka\source\repos\stack_2\stack_2.cpp(19): warning C4172: возвращение адреса локальной или временной переменной : b
+C:\Users\Arasaka\source\repos\stack_2\stack_2.cpp(12): warning C4172: возвращение адреса локальной или временной переменной : a
+  stack_2.vcxproj -> C:\Users\Arasaka\source\repos\stack_2\x64\Debug\stack_2.exe

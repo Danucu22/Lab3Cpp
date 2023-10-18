@@ -1,0 +1,8 @@
+﻿  f.cpp
+  main.cpp
+C:\Users\Arasaka\source\repos\main\main.cpp(6,12): error C2084: функция "int hello(int)" уже имеет текст реализации
+C:\Users\Arasaka\source\repos\main\f.cpp(6,5): message : см. предыдущее определение "hello"
+C:\Users\Arasaka\source\repos\main\main.cpp(13,15): error C2065: hello: необъявленный идентификатор
+C:\Users\Arasaka\source\repos\main\main.cpp(13,23): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\Arasaka\source\repos\main\main.cpp(13,23): message : может быть "int hello(int)"
+  Создание кода...
